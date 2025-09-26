@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amardip Chaudhary.</h1>
 
-<img align="right" alt="coding" width="1000" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+<img align="right" alt="coding" width="1000" src="[https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966](https://imgs.search.brave.com/n73V9dH7YZKP3EhPIwwbpUk8rcjevxgtd_E4_WCan_8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzFlLzM5/L2Y3LzFlMzlmN2Qy/MzBiMGVhNWI3YTg4/YzQ1NWMwZGE3Yjdh/LmpwZw)">
 
 
-<h3 align="center">A passionate high-school "CS" student currently studying in Nepal.</h3>
+<h3 align="center">A passionate high-school "CS" student currently studying in Australia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amardip98&label=Profile%20views&color=0e75b6&style=flat" alt="amardip98" /> </p>
 
